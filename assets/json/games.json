@@ -6,6 +6,12 @@
     "img": "meta/apple-touch-icon.png"
   },
     {
+    "name": "Yohoho",
+    "root": "yohoho",
+    "file": "index.html",
+    "img": "yohoho.png"
+  },
+    {
     "name": "mcje (IE ONLY!)",
     "root": "mcje",
     "file": "Mine.html",
@@ -1960,12 +1966,6 @@
     "root": "x-trial-racing",
     "file": "index.html",
     "img": "splash.png"
-  },
-  {
-    "name": "Yohoho",
-    "root": "yohoho",
-    "file": "index.html",
-    "img": "yohoho.png"
   },
   {
     "name": "Yoshi's Fabrication Station",
